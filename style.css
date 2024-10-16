@@ -1,0 +1,47 @@
+.post{
+    background-color: aqua;
+   
+}
+.map{
+    background-color: lime;
+    /* height: 40px; */
+}
+.wrapper{
+    height: 100px;
+    background-color: magenta;
+}
+.syst{
+    background-color: indigo;
+}
+.gap{
+    background-color: salmon;
+}
+.most{
+    background-color:pink;
+}
+.wost{
+    background-color: darkorange;
+}
+.post{
+    background-color: darkblue;
+    padding: 20px;
+}
+.ask{
+    background-color: springgreen;
+}
+.about{
+    background-color:fuchsia;
+}
+.me{
+    background-color: gold;
+}
+.kundu{
+    background-color:rebeccapurple;
+    padding:20px;
+}
+h1{
+    padding-left:100px;
+    text-shadow:5px 5px 4px red;
+    color:white;
+}
+
